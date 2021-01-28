@@ -1,1 +1,1 @@
-# NyetHack_ConditionalsChallenges
+# NyetHack
